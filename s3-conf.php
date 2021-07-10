@@ -1,0 +1,1 @@
+<?php $accessKey='AKIAX6SSPJA5K5IGHIQY'; $secretKey='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'; $region='us-east-1'; $bucket='btcmp-bkt'; $arqName='logo.jpg'; $linkestatico='https://s3.amazonaws.com' ?>
